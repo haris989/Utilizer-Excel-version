@@ -1,10 +1,10 @@
-ITC Utilizer is a software that works based on a greedy algorithm which finds the orientation 
+Utilizer is a software that works based on a greedy algorithm which finds the orientation 
 of the boxes to be kept inside Truck/Roll cages for optimal packing.
-ITC Utilizer takes care of the constraints like not rotating Length-by-height/Breadth-by-height, stacking norms etc.
+Utilizer takes care of the constraints like not rotating Length-by-height/Breadth-by-height, stacking norms etc.
 
-EXCEL VERSION OF THE ITC UTILIZER IS THE EASIEST TO USE VERSION!
-Copy the contents of the CD somewhere in your C drive. 
-It is not possible to run ITC Utilizer directly from the CD since windows does not allow writing to non rewritable CDs.
+EXCEL VERSION OF THE UTILIZER IS THE EASIEST TO USE VERSION!
+Copy the contents of the CD/Github repo somewhere in your C drive. 
+It is not possible to run Utilizer directly from the CD since windows does not allow writing to non rewritable CDs.
 Open the Excel file and input the data in the columns.
 Click pack CFCs.
 Go to sheet 2 and visualize the results.
